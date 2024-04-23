@@ -1,3 +1,3 @@
 # Hello
 
-Uhhhhh... How do I center a div?
+In the past, this contained a lil quirky joke. Now, it's lifeless.
